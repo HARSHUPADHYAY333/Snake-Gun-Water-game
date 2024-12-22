@@ -1,2 +1,3 @@
 # Snake-Gun-Water-game 
-First Python Project 
+<br>
+Python First Mini Project
